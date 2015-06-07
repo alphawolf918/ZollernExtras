@@ -1,0 +1,11 @@
+* Quivers.
+    * Initially crafted with three pieces of leather.
+    * Arrows can be stored by crafting arrow bunches (3 arrows at a time) and hold 9 arrows.
+    * Arrow bunches can be crafted with the original quiver to make a quiver full of arrows.
+        * Can be crafted back into arrows at any time.
+    * Pull arrows out of quiver one at a time with a keybind.
+* Make horse armor craftable.
+    * Add new horse armor: Emerald & Amaranth
+* Golden anvils.
+    * Take much longer to break than regular anvils.
+    * Different sounds.

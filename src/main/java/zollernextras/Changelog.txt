@@ -1,0 +1,131 @@
+[2.5.3]
+
+* Added Shinium.
+    * Can serve as a replacement for platinum.
+* Fixed Sea Lamp crafting problem.
+    * Four lapis ingots surrounding a shinestone block.
+* Added four kinds of sticks.
+    * White Cave Marble, Black Cave Marble, Lapis and Power
+* Swords and gems are now craftable.
+* Added mobs:
+    * Baby Dragon
+        * Currently somewhat glitchy, also unfinished.
+        * Planned to be tameable.
+        * Can be mounted and somewhat controlled with an ender pearl.
+* Super Charged Coal items can now be crafted into Super Charged Coal blocks.
+    * Blocks cannot be used as fuel at this time.
+* Swamp Clay can now be crafted back and forth, from block form to item form.
+* Registered some ores and ingots with the OreDictionary.
+* Raw duck and shrimp can now be cooked into their respective, cooked counterparts.
+* Chicken and duck eggs can now be cooked into boiled eggs.
+* Readded mobs:
+    * Shadow Skeleton
+        * Does not burn in sunlight.
+    * Mummy
+* Treasure chests now have a 4 in 20 chance of generating in oceans at layers 32 and below.
+    * Almost always contain a full stack of gold ingots.
+* Began work on quivers.
+    * Not obtainable in Survival.
+    * GUI currently glitchy and nonfunctional.
+    * Accepts arrows, but "eats" them and does not give them back.
+    * Glitchy rendering.
+* Fixed issue with pulverizing Nether and Ender Super Charged Coal Ores yielding acacia wood stairs as secondary item.
+    * Now yields regular coal instead.
+* Upped the spawn rate of most mobs.
+* Began work on golden anvils.
+    * In-game, but do not open GUIs yet, and therefore they are unobtainable in Survival.
+* Added crops and food:
+    * Blueberry
+    * Blackberry
+    
+
+[2.5.2]
+
+* Added Healing Heart and Health Upgrade items.
+    * Healing Heart completely heals the Player for 5 uses.
+    * Health Upgrade upgrades the Player's health by 1 heart (buggy, currently resets on death).
+* Added ores and gems:
+    * Amber
+    * Azurite
+    * Aquamarine
+    * Garnet
+    * Topaz
+    * Opal
+    * Enderite
+* Special gems can be crafted using combinations of gems, items, blocks, materials and ingots:
+    * Static Amber
+    * Icy Aqua
+    * Fire Garnet
+    * Ender Opal
+* Made Healing Heart and Health Upgrade craftable.
+* Added the Triumph Swords:
+    * Thor
+        * Right-clicking spawns several lightning bolts wherever the Player is looking.
+    * Ender
+        * Right-clicking teleports the Player to wherever they're looking.
+    * Diablo
+        * Right-clicking shoots two Ghast-like fireballs at a time.
+        * Left-clicking sets the targeted entity on fire for 60 seconds.
+    * Glacies
+        * Places ice blocks in a path.
+* Readded mobs:
+    * Fish
+    * Mega Creepers
+    * Scorpions
+    * Jellyfish
+    * Shrimp
+    * Duck
+        * Lays duck eggs and drops duck feathers upon death.
+        * Duck eggs can be cooked.
+    * Pigshroom
+* Nether Quartz Blocks can now be turned back into Nether Quartz Items.
+* Sea Lamps will now also spawn in Deep Oceans as well.
+* Chicken eggs can now be cooked into edible boiled eggs.
+* Removed all APIs for now.
+* Lapis Lazuli can now be smelted into Lapis Ingots.
+* Four Lapis Ingots surrounding a block of Shinestone crafts a Sea Lamp block.
+
+[2.5.1]
+
+* Added APIs:
+    * Metallurgy
+    * MineFactoryReloaded
+    * CoFH/Redstone Flux
+* Fixed issue with Icy Sand having same texture as Regular Sand.
+* Began work on mobs.
+* Added IMCs:
+    * Mekanism / Metallurgy
+    * Applied Energistics
+* ZE ores should now generate in Twilight Forest.  
+* Fixed recipe glitch with sirens taking fire instead of obsidian.
+* Shinestone blocks can now be pulverized into dust.
+* Shinestone ingots can now be pulverized into dust.  
+* Added Nether ores:
+    * Fueltonium
+    * Super Charged Coal
+    * Zinc
+    * Amaranth
+    * Ender Shard
+* All Nether ores are able to be pulverized and smelted.
+* Better Glass should now function properly.
+* Re-added some of the old world-gen blocks (sea lamps, swamp clay, etc.).
+* Added black and white Cave Marble.
+* Added Brimstone and Nether Dirt.
+* Added Ender ores:
+    * Fueltonium
+    * Super Charged Coal
+    * Zinc
+    * Amaranth
+* All Ender ores are able to be pulverized and smelted.
+================================
+
+[2.5]
+
+* Fixed issue with ZE ores; can now be pulverized.
+* Fixed issue with name not displaying properly on certain armor pieces.
+* Fixed issue with armor crafting - helmet and leggings no longer have the same recipe.
+* Added iron, gold, diamond, and emerald sirens.
+* Shinedust can now be cooked into shinestone ingots.
+* Shinestone ingots can now be crafted into shinestone crystals.
+* Shinestone crystals can now be turned into shinestone bricks.
+* All shinestone blocks give off the same amount of light.
